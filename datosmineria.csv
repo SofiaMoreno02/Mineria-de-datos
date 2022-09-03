@@ -1,8 +1,8 @@
-NúmeroCuenta;NombreCliente;Saldo_actual;última_transacción
-22589;Andrés Cifuentes;120823;25/08/2022
-21553;Camilo Peralta;589000;26/08/2022
-25412;Diana Jimenez;1000000;1/09/2022
-48622;Ingrid Sanchez;458000;30/08/2022
-26502;Stiven Rodriguez;50000;7/08/2022
-62412;Oscar Jimenez;870500;1/09/2022
-18212;Laura García;123000;28/08/2022
+NúmeroCuenta,NombreCliente,Saldo_actual,última_transacción
+22589,Andrés Cifuentes,120823,25/08/2022
+21553,Camilo Peralta,589000,26/08/2022
+25412,Diana Jimenez,1000000,1/09/2022
+48622,Ingrid Sanchez,458000,30/08/2022
+26502,Stiven Rodriguez,50000,7/08/2022
+62412,Oscar Jimenez,870500,1/09/2022
+18212,Laura García,123000,28/08/2022
